@@ -7,4 +7,4 @@ v1.1 Fixed output symmetry.<br><br>
 v1.2 
 <br><br>
 <img src="https://github.com/Kirby01/KFuzz-/blob/main/kfuzz.png?raw=true"><br><br>
-Put BassPres before it for different effect.
+
